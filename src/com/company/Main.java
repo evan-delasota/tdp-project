@@ -26,7 +26,7 @@ public class Main {
                 throw new IllegalArgumentException("Data size is too large to be parsed, ensure block is less than 100 'books' long.\n");
             }
             Scanner lineScanner = new Scanner(blockInput);
-            // Scans through input line by line
+            // Scans through block line by line
             while (lineScanner.hasNextLine()) {
                 String book = lineScanner.nextLine();
                 parseBookInput(book, authorList);
