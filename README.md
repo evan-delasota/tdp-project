@@ -1,4 +1,4 @@
-#Catalog Comparison Program
+# Catalog Comparison Program
 CLI-based application built using OpenJDK-11 and IntelliJ.
 
 ## Behaviors
