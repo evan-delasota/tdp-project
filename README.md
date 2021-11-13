@@ -12,9 +12,10 @@ and returns the oldest book of the author with the most 'book' entries
 3. JAR Route:
    1. From the project directory, change directories to `./out/artifacts/tdp_jar/`
    2. Enter `java -jar .\tdp.jar` to run the jar file
-4. IDE Route: 
-   1. `Build` the project
-   2. `Run` Main
+4. IDE Route:
+   1. clone or download this repository on [GitHub](https://github.com/evan-delasota/tdp-project)
+   2. `Build` the project
+   3. `Run` Main
 5. From the program menu, enter blocks of data formatted as</br>`"TITLE,DATE,AUTHOR,LENGTH"` with dates formatted as `"mm/dd/yyyy"`
     </br>e.g. `Carrie,06/13/1982,Steven King,762`
 6. Once data entry is complete, press enter twice
