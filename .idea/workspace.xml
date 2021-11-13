@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tdp:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e407cffa-b272-428a-b226-f94a046b81ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tdp_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +89,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -109,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636821429747</updated>
       <workItem from="1636821431000" duration="3003000" />
-      <workItem from="1636824455063" duration="3912000" />
+      <workItem from="1636824455063" duration="7063000" />
     </task>
     <task id="LOCAL-00001" summary="Added book class">
       <created>1636828167851</created>
@@ -146,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636828321820</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changed gitignore file">
+      <created>1636828406593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636828406593</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Made slight changes, added comments">
+      <created>1636830322615</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636830322615</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +220,9 @@
     <MESSAGE value="Added Book class" />
     <MESSAGE value="Added AuthorCatalog class, removed unnecessary colon" />
     <MESSAGE value="Added driver class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added driver class" />
+    <MESSAGE value="changed gitignore file" />
+    <MESSAGE value="Made slight changes, added comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made slight changes, added comments" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

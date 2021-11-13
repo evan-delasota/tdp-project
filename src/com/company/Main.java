@@ -6,7 +6,7 @@ public class Main {
     private static final int dataLimit = 100;
 
     public static void main(String[] args) {
-        System.out.println("Enter book data");
+        System.out.println("Enter book data...");
         Scanner blockScanner = new Scanner(System.in);
         List<AuthorCatalog> authorList = new ArrayList<>();
         authorList.add(new AuthorCatalog("Steven King", "Horror"));
